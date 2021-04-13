@@ -1,7 +1,7 @@
 
- 
+<img align="right" width="400" height="400" src="https://meneguite.com/2017/10/01/golang-desbravando-uma-linguagem-de-programacao-parte-1/001.gif">
+
 # Welcome!
- 
 ## I'm Gleidson! Let me present a little about myself!!
  
  I am focused on web development with javascript :computer:
