@@ -10,7 +10,7 @@
  But I am always willing to learn new things :muscle:
  
  
- technology and coding lover ❤️
+ technology and coding lover ❤️:code:
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/gleidsondevC)
